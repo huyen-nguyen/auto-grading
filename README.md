@@ -10,7 +10,7 @@ Steps:
 
 - `run.sh` to run all c sources
 
-    bash run.sh >> join_screen_output.txt
+      bash run.sh >> join_screen_output.txt
 
 - `join.sh` to combine results
 
