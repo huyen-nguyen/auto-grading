@@ -1,38 +1,15 @@
 ﻿"Last Name","First Name","Username","Student ID","Last Access","Availability","Child Course ID","Lab Assignment #06 [Total Pts: 50 Score] |2476924","Grading Notes","Notes Format","Feedback to Learner","Feedback Format"
-"Adams","Klay","kladams","R11679660","2022-03-11 22:54:55","Yes","40140.202257","36.00","","HTML","<p>Some test cases failed (-5)</p> 
-<p>Tree check is not correct (-2)</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.</p> 
-<p>3. (-2) Incorrect Big O of&nbsp;<strong><em>storage</em></strong></p> 
-<p>4. (-2) Incorrect minimum possible height.</p>","HTML"
+"Adams","Klay","kladams","R11679660","2022-03-11 22:54:55","Yes","40140.202257","36.00","","HTML"," Some test cases failed (-5)Tree check is not correct (-2)1. (-2) Incorrect worst case example.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.3. (-2) Incorrect Big O ofstorage4. (-2) Incorrect minimum possible height. ","HTML"
 "Alli","Waliy","abdalli","R11669934","2022-03-11 20:40:15","Yes","40140.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Ameringer","Julia","jamering","R11676486","2022-03-11 21:13:47","Yes","40140.202257","37.00","","HTML","<p>No output is found (-10)</p> 
-<p>1. (-1) Incorrect worst case.&nbsp;&nbsp;</p> 
-<p>2. (-1) Incorrect Big O of the best case.</p> 
-<p>3. (-1) Incorrect Big O of storage</p> 
-<p><br></p>","HTML"
+"Ameringer","Julia","jamering","R11676486","2022-03-11 21:13:47","Yes","40140.202257","37.00","","HTML"," No output is found (-10)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case.3. (-1) Incorrect Big O of storage<br> ","HTML"
 "Archer","Easton","eaarcher","R11678090","2022-03-11 19:38:47","Yes","40140.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Badrina","Josiah Rey","jbadrina","R11702494","2022-03-11 22:16:35","Yes","40140.202257","46.50","","HTML","<p>(-1) Missing total count, words are not in order.</p> 
-<p>(-1) Tree size is not correct</p> 
-<p>1. (-1) Incorrect worst case.&nbsp;</p> 
-<p>2. (-0.5) Incorrect Big O of the best case,&nbsp;O(log3(n)) is for inserting the nth node.&nbsp;Take into account that when you insert a new node, the number of nodes to traverse changes.&nbsp;</p>","HTML"
-"Belcher","Stephen","stbelche","R11676566","2022-03-10 13:38:31","Yes","40140.202257","46.00","","HTML","<p>(-1) Use a cleaning function to convert uppercase to lowercase</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.</p>","HTML"
-"Bharatha","Vandana","vbharath","R11804064","2022-03-12 09:46:57","Yes","65911.202257","42.00","","HTML","<p style=""font-weight: 400; font-style: normal; font-size: small; position: relative; overflow-wrap: break-word; color: #111111; background-color: #ffffff;"">Incorrect tree size and frequency (-2)</p> 
-<p style=""font-weight: 400; font-style: normal; font-size: small; position: relative; overflow-wrap: break-word; color: #111111; background-color: #ffffff;"">1. (-2) Incorrect worst case example.</p> 
-<p style=""font-weight: 400; font-style: normal; font-size: small; position: relative; overflow-wrap: break-word; color: #111111; background-color: #ffffff;"">2. (-2) Incorrect Big O of the best case</p> 
-<p style=""position: relative; overflow-wrap: break-word; background-color: #ffffff;""><span style=""color: #111111; font-size: small;"">4. (-2) Incorrect minimum possible height.</span></p>","HTML"
-"Bhosale","Samruddhi","sambhosa","R11710821","2022-03-12 00:00:15","Yes","40140.202257","44.00","","HTML","<p>Wrong format for concordance file (-1)</p> 
-<p>Missing total count (-1)</p> 
-<p>Missing tree check (-3)</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p><br></p>","HTML"
+"Badrina","Josiah Rey","jbadrina","R11702494","2022-03-11 22:16:35","Yes","40140.202257","46.50","","HTML"," (-1) Missing total count, words are not in order.(-1) Tree size is not correct1. (-1) Incorrect worst case.2. (-0.5) Incorrect Big O of the best case,O(log3(n)) is for inserting the nth node.Take into account that when you insert a new node, the number of nodes to traverse changes. ","HTML"
+"Belcher","Stephen","stbelche","R11676566","2022-03-10 13:38:31","Yes","40140.202257","46.00","","HTML"," (-1) Use a cleaning function to convert uppercase to lowercase1. (-2) Incorrect worst case example.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes. ","HTML"
+"Bharatha","Vandana","vbharath","R11804064","2022-03-12 09:46:57","Yes","65911.202257","42.00","","HTML"," Incorrect tree size and frequency (-2)1. (-2) Incorrect worst case example.2. (-2) Incorrect Big O of the best case4. (-2) Incorrect minimum possible height. ","HTML"
+"Bhosale","Samruddhi","sambhosa","R11710821","2022-03-12 00:00:15","Yes","40140.202257","44.00","","HTML"," Wrong format for concordance file (-1)Missing total count (-1)Missing tree check (-3)2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.<br> ","HTML"
 "Bobba","Manisha","mbobba","R11786793","2022-03-11 23:09:56","Yes","65911.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
 "Bowers","Matthew","matbower","R11625213","2022-03-10 12:17:13","Yes","32074.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Bradley","Jase","jasebrad","R11606782","2022-03-10 11:08:17","Yes","32074.202257","47.50","","HTML","<p style=""font-size: 13px;"">(-1) The tree size (number of nodes) is different from the number of distinct words.</p> 
-<p>1. (-1) Incorrect worst case</p> 
-<p>2. (-0.5) Incorrect base of log</p>","HTML"
+"Bradley","Jase","jasebrad","R11606782","2022-03-10 11:08:17","Yes","32074.202257","47.50","","HTML"," (-1) The tree size (number of nodes) is different from the number of distinct words.1. (-1) Incorrect worst case2. (-0.5) Incorrect base of log ","HTML"
 "Burriss","Braden","bburriss","R11670274","2022-03-09 14:49:41","Yes","40140.202257","47.50","","SMART_TEXT","","SMART_TEXT"
 "Carlton","Bailey","bacarlto","R11695665","2022-03-12 09:17:42","Yes","32074.202257","","","","",""
 "Cerda","Victoria","viccerda","R11632498","2022-03-10 19:14:14","Yes","40140.202257","","","","",""
@@ -41,245 +18,85 @@
 "Chowdhury","Shayantan","shaychow","R11643585","2022-03-13 00:28:56","Yes","40140.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
 "Crane","Meredith","mercrane","R11609257","2022-03-12 02:43:42","Yes","32074.202257","","","","",""
 "Daggubati","SK","sdagguba","R11787066","2022-03-12 22:13:47","Yes","65911.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Daley","Devin","devdaley","R11665567","2022-03-13 00:26:57","Yes","32074.202257","46.00","","HTML","<p>Incorrect tree size, missing test case status (-2)</p> 
-<p>1. (-1) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case</p>","HTML"
+"Daley","Devin","devdaley","R11665567","2022-03-13 00:26:57","Yes","32074.202257","46.00","","HTML"," Incorrect tree size, missing test case status (-2)1. (-1) Incorrect worst case example.2. (-1) Incorrect Big O of the best case ","HTML"
 "Dornak","Seth","sedornak","R11625745","2022-03-11 23:22:21","Yes","32074.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
 "Elele","Precious","pelele","R11691819","2022-03-09 17:35:33","Yes","32074.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Emesih","Greg or GG","gemesih","R11682257","2022-03-11 22:31:55","Yes","40140.202257","23.00","","HTML","<p style=""font-weight: 400; font-style: normal; font-size: small; position: relative; overflow-wrap: break-word; color: #111111; background-color: #ffffff;"">Code not found</p> 
-<p style=""font-weight: 400; font-style: normal; font-size: small; position: relative; overflow-wrap: break-word; color: #111111; background-color: #ffffff;"">(-12) 2-3 SearchTree</p> 
-<p style=""font-weight: 400; font-style: normal; font-size: small; position: relative; overflow-wrap: break-word; color: #111111; background-color: #ffffff;"">(-12) Test case</p> 
-<p style=""position: relative; overflow-wrap: break-word; background-color: #ffffff;""><span style=""color: #111111; font-size: small;"">1. (-1) Incorrect worst case.&nbsp;&nbsp;</span></p> 
-<p style=""position: relative; overflow-wrap: break-word; background-color: #ffffff;""><span style=""color: #111111; font-size: small;"">2. (-1) Incorrect Big O of the best case.</span></p> 
-<p style=""position: relative; overflow-wrap: break-word; background-color: #ffffff;""><span style=""color: #111111; font-size: small;"">4. (-1) Incorrect minimum possible height.</span></p>","HTML"
-"Gabbita","Vamsi","vgabbita","R11658058","2022-03-11 10:18:33","Yes","32074.202257","36.00","","HTML","<p>No output is available (-10)</p> 
-<p>1. (-1) Incorrect worst case.&nbsp;&nbsp;</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>3. (-1) Incorrect Big O of storage</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
-"Gallego","Blanca","blgalleg","R11696805","2022-03-10 15:09:14","Yes","40140.202257","40.00","","SMART_TEXT","<p>Incorrect output file content. (-4)</p> 
-<p>Incorrect tree height, tree size and search result (-3)</p> 
-<p>1. (-1) Worst case: O(n) is the complexity for inserting 1 node. The question is asking the case of inserting n words.&nbsp;</p> 
-<p>2. (-1) Best case: O(log3(n)) is the complexity for inserting 1 node. The question is asking the case of inserting n words.&nbsp;</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
-"Gallina","Harrison","hgallina","R11717780","2022-03-11 10:54:56","Yes","32074.202257","36.00","","HTML","<p style=""font-weight: 400; font-style: normal; font-size: small;"">No output is available (-10)</p> 
-<p style=""font-weight: 400; font-style: normal; font-size: small;"">1. (-1) Incorrect worst case.&nbsp;&nbsp;</p> 
-<p style=""font-weight: 400; font-style: normal; font-size: small;"">2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p style=""font-weight: 400; font-style: normal; font-size: small;"">3. (-1) Incorrect Big O of storage</p> 
-<p style=""font-weight: 400; font-style: normal; font-size: small;"">4. (-1) Incorrect minimum possible height.</p>","HTML"
+"Emesih","Greg or GG","gemesih","R11682257","2022-03-11 22:31:55","Yes","40140.202257","23.00","","HTML"," Code not found(-12) 2-3 SearchTree(-12) Test case1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case.4. (-1) Incorrect minimum possible height. ","HTML"
+"Gabbita","Vamsi","vgabbita","R11658058","2022-03-11 10:18:33","Yes","32074.202257","36.00","","HTML"," No output is available (-10)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.3. (-1) Incorrect Big O of storage4. (-1) Incorrect minimum possible height. ","HTML"
+"Gallego","Blanca","blgalleg","R11696805","2022-03-10 15:09:14","Yes","40140.202257","40.00","","SMART_TEXT"," Incorrect output file content. (-4)Incorrect tree height, tree size and search result (-3)1. (-1) Worst case: O(n) is the complexity for inserting 1 node. The question is asking the case of inserting n words.2. (-1) Best case: O(log3(n)) is the complexity for inserting 1 node. The question is asking the case of inserting n words.4. (-1) Incorrect minimum possible height. ","HTML"
+"Gallina","Harrison","hgallina","R11717780","2022-03-11 10:54:56","Yes","32074.202257","36.00","","HTML"," No output is available (-10)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.3. (-1) Incorrect Big O of storage4. (-1) Incorrect minimum possible height. ","HTML"
 "Ganguru","Pavan Kumar","pganguru","R11802383","2022-03-11 20:03:21","Yes","65911.202257","","","","",""
-"Garcia","Hugo","gar54782","R11688223","2022-03-11 20:30:55","Yes","40140.202257","42.00","","HTML","<p>Missing total count and frequency accumulated in output file (-2)</p> 
-<p>Missing tree check (-3)</p> 
-<p>2. (-1) Missing Big O of the best case.</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
-"Gardener","De'Andre","dgardene","R11696422","2022-03-12 08:14:55","Yes","40140.202257","40.00","","HTML","<p>Incorrect output file content. (-4)</p> 
-<p>Incorrect tree height, tree size and search result (-3)</p> 
-<p>1. (-1) Worst case: O(n) is the complexity for inserting 1 node. The question is asking the case of inserting n words.&nbsp;</p> 
-<p>2. (-1) Best case: O(log3(n)) is the complexity for inserting 1 node. The question is asking the case of inserting n words.&nbsp;</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
+"Garcia","Hugo","gar54782","R11688223","2022-03-11 20:30:55","Yes","40140.202257","42.00","","HTML"," Missing total count and frequency accumulated in output file (-2)Missing tree check (-3)2. (-1) Missing Big O of the best case.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.4. (-1) Incorrect minimum possible height. ","HTML"
+"Gardener","De'Andre","dgardene","R11696422","2022-03-12 08:14:55","Yes","40140.202257","40.00","","HTML"," Incorrect output file content. (-4)Incorrect tree height, tree size and search result (-3)1. (-1) Worst case: O(n) is the complexity for inserting 1 node. The question is asking the case of inserting n words.2. (-1) Best case: O(log3(n)) is the complexity for inserting 1 node. The question is asking the case of inserting n words.4. (-1) Incorrect minimum possible height. ","HTML"
 "George","Lija","lijgeorg","R11797448","2022-03-13 00:26:47","Yes","65911.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Gibson","James","gib77606","R11671129","2022-03-11 20:18:21","Yes","40140.202257","37.00","","HTML","<p>No output is available (-10)</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>3. (-1) Incorrect Big O of storage</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
-"Gidwani","Krish","kgidwani","R11715096","2022-03-11 21:07:21","Yes","40140.202257","43.00","","SMART_TEXT","<p>(-5) Late</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
+"Gibson","James","gib77606","R11671129","2022-03-11 20:18:21","Yes","40140.202257","37.00","","HTML"," No output is available (-10)2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.3. (-1) Incorrect Big O of storage4. (-1) Incorrect minimum possible height. ","HTML"
+"Gidwani","Krish","kgidwani","R11715096","2022-03-11 21:07:21","Yes","40140.202257","43.00","","SMART_TEXT"," (-5) Late2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.4. (-1) Incorrect minimum possible height. ","HTML"
 "Gilmore","Thomas","thgilmor","R11705110","2022-03-11 21:11:42","Yes","32074.202257","","","","",""
-"Gorantala","Rahul Teja","rgoranta","R11797652","2022-03-11 21:50:54","Yes","65911.202257","44.00","","SMART_TEXT","<p>Incorrect tree size and frequency (-2)</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-2) Incorrect Big O of the best case</p>","HTML"
-"Granado","Casmiro","casgrana","R11703447","2022-03-13 03:03:56","Yes","32074.202257","44.00","","HTML","<p>Word frequency is incorrect for big file (-1)</p> 
-<p>Missing total word count, tree check is in correct (-2)</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>3. (-1) Incorrect Big O of storage</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
-"Greenwood","Jarrett","jargreen","R11609855","2022-03-10 15:53:17","Yes","40140.202257","43.00","","HTML","<p>(-4) Incorrect tree size, missing total count and frequency in output file. Wrong input file name.</p> 
-<p>1. (-1) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.</p> 
-<p>3. (-1) Incorrect Big O of storage</p>","HTML"
+"Gorantala","Rahul Teja","rgoranta","R11797652","2022-03-11 21:50:54","Yes","65911.202257","44.00","","SMART_TEXT"," Incorrect tree size and frequency (-2)1. (-2) Incorrect worst case example.2. (-2) Incorrect Big O of the best case ","HTML"
+"Granado","Casmiro","casgrana","R11703447","2022-03-13 03:03:56","Yes","32074.202257","44.00","","HTML"," Word frequency is incorrect for big file (-1)Missing total word count, tree check is in correct (-2)2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.3. (-1) Incorrect Big O of storage4. (-1) Incorrect minimum possible height. ","HTML"
+"Greenwood","Jarrett","jargreen","R11609855","2022-03-10 15:53:17","Yes","40140.202257","43.00","","HTML"," (-4) Incorrect tree size, missing total count and frequency in output file. Wrong input file name.1. (-1) Incorrect worst case example.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.3. (-1) Incorrect Big O of storage ","HTML"
 "Gudapati","Veera Venkata","vgudapat","R11802697","2022-03-11 23:14:35","Yes","65911.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
 "Gutta","Shiny","sgutta","R11795062","2022-03-10 21:35:32","Yes","65911.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
 "Hamilton","Emily","ham64459","R11763164","2022-03-11 16:06:56","Yes","32074.202257","","","","",""
-"Hedderman","Reed","rhedderm","R11670743","2022-03-11 21:52:21","Yes","32074.202257","40.00","","HTML","<p>Correct total count but word list is not complete, incorrect tree height, tree size and search result (-3)</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case</p> 
-<p>3. (-2) Incorrect Big O of storage</p> 
-<p>4. (-2) Incorrect minimum possible height.</p>","HTML"
+"Hedderman","Reed","rhedderm","R11670743","2022-03-11 21:52:21","Yes","32074.202257","40.00","","HTML"," Correct total count but word list is not complete, incorrect tree height, tree size and search result (-3)1. (-2) Incorrect worst case example.2. (-1) Incorrect Big O of the best case3. (-2) Incorrect Big O of storage4. (-2) Incorrect minimum possible height. ","HTML"
 "Holmes","Andrew","andrholm","R11703626","2022-03-12 20:37:21","Yes","40140.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Inikori","Israel","oginikor","R11665990","2022-03-13 00:12:56","Yes","40140.202257","46.00","","HTML","<p>Tree height is not correct (-1)</p> 
-<p>(-1) The tree size (number of nodes) is different from the number of distinct words.</p> 
-<p>1. (-1) Incorrect worst case.&nbsp;&nbsp;</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p>","HTML"
+"Inikori","Israel","oginikor","R11665990","2022-03-13 00:12:56","Yes","40140.202257","46.00","","HTML"," Tree height is not correct (-1)(-1) The tree size (number of nodes) is different from the number of distinct words.1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes. ","HTML"
 "Johnson","Oliver","olivejoh","R11643369","2022-03-12 00:26:21","Yes","40140.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"King","Harrison","harrikin","R11616503","2022-03-11 20:47:54","Yes","32074.202257","26.00","","HTML","<p>Test cases did not work (-12)</p> 
-<p>Missing report (-12)</p>","HTML"
+"King","Harrison","harrikin","R11616503","2022-03-11 20:47:54","Yes","32074.202257","26.00","","HTML"," Test cases did not work (-12)Missing report (-12) ","HTML"
 "King","Jared","jaredkin","R11706366","2022-03-12 20:45:15","Yes","40140.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Koregave","Isha","ikoregav","R11743130","2022-03-11 15:13:21","Yes","32074.202257","44.00","","HTML","<p>Wrong format for concordance file (-1)</p> 
-<p>Missing total count (-1)</p> 
-<p>Missing tree check (-3)</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p><br></p>","HTML"
-"Kuchta","Tyler","tkuchta","R11678039","2022-03-11 15:55:46","Yes","40140.202257","36.00","","HTML","<p>Test cases failed (-5)</p> 
-<p>Tree check is not correct (-2)</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.</p> 
-<p>3. (-2) Incorrect Big O of <strong><em>storage</em></strong></p> 
-<p>4. (-2) Incorrect minimum possible height.</p>","HTML"
+"Koregave","Isha","ikoregav","R11743130","2022-03-11 15:13:21","Yes","32074.202257","44.00","","HTML"," Wrong format for concordance file (-1)Missing total count (-1)Missing tree check (-3)2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.<br> ","HTML"
+"Kuchta","Tyler","tkuchta","R11678039","2022-03-11 15:55:46","Yes","40140.202257","36.00","","HTML"," Test cases failed (-5)Tree check is not correct (-2)1. (-2) Incorrect worst case example.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.3. (-2) Incorrect Big O of storage4. (-2) Incorrect minimum possible height. ","HTML"
 "Kwon","Jae Wook","jaekwon","R11744129","2022-03-11 23:10:15","Yes","32074.202257","","","","",""
 "Libre","Travis","trlibre","R11702155","2022-03-11 00:20:33","Yes","40140.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
 "Maddineni","Jagadeesh","jmaddine","R11788222","2022-03-11 21:02:54","Yes","65911.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
 "Malkowsky","Travis","tmalkows","R11701175","2022-03-11 14:45:21","Yes","40140.202257","","","","",""
 "Mallela","Deekshitha","dmallela","R11801225","2022-03-11 19:35:34","Yes","65911.202257","","","","",""
-"Mclaughlin","Mitchell","mitmclau","R11709606","2022-03-11 22:39:21","Yes","40140.202257","46.50","","HTML","<p>(-1) Missing total count, words are not in order.</p> 
-<p>(-1) Tree size is not correct</p> 
-<p>1. (-1) Incorrect worst case.&nbsp;</p> 
-<p>2. (-0.5) Incorrect Big O of the best case,&nbsp;<span style=""font-size: 13px; font-style: normal; font-weight: 400;"">O(log3(n)) is for inserting the nth node.</span><span style=""font-size: 13px;""> Take into account that when you insert a new node, the number of nodes to traverse changes.&nbsp;</span></p> 
-<p><br></p>","HTML"
+"Mclaughlin","Mitchell","mitmclau","R11709606","2022-03-11 22:39:21","Yes","40140.202257","46.50","","HTML"," (-1) Missing total count, words are not in order.(-1) Tree size is not correct1. (-1) Incorrect worst case.2. (-0.5) Incorrect Big O of the best case,O(log3(n)) is for inserting the nth node. Take into account that when you insert a new node, the number of nodes to traverse changes.<br> ","HTML"
 "Melton","Jah'leel","jahmelto","R11598071","2022-03-06 15:01:49","Yes","32074.202257","","","","",""
-"Molina","Amber","ambemoli","R11790949","2022-03-12 13:16:56","Yes","32074.202257","35.00","","HTML","<p style=""font-weight: 400; font-style: normal; font-size: small; position: relative; overflow-wrap: break-word; color: #111111; background-color: #ffffff;"">Output file not found, test cases fail (-8)</p> 
-<p style=""font-weight: 400; font-style: normal; font-size: small; position: relative; overflow-wrap: break-word; color: #111111; background-color: #ffffff;"">Missing tree check (-3)</p> 
-<p style=""position: relative; overflow-wrap: break-word; background-color: #ffffff;""><span style=""color: #111111; font-size: small;"">1. (-1) Incorrect worst case.&nbsp;&nbsp;</span></p> 
-<p style=""position: relative; overflow-wrap: break-word; background-color: #ffffff;""><span style=""color: #111111; font-size: small;"">2. (-1) Incorrect Big O of the best case.</span></p> 
-<p style=""position: relative; overflow-wrap: break-word; background-color: #ffffff;""><span style=""color: #111111; font-size: small;"">3. (-1) Incorrect Big O of storage</span></p> 
-<p style=""position: relative; overflow-wrap: break-word; background-color: #ffffff;""><span style=""color: #111111; font-size: small;"">4. (-1) Incorrect minimum possible height.</span></p>","HTML"
-"Monge","Alex","almonge","R11696059","2022-03-12 00:16:55","Yes","40140.202257","47.00","","HTML","<p>(-1) Incorrect input file name&nbsp;</p> 
-<p>1. (-1) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.</p>","HTML"
+"Molina","Amber","ambemoli","R11790949","2022-03-12 13:16:56","Yes","32074.202257","35.00","","HTML"," Output file not found, test cases fail (-8)Missing tree check (-3)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case.3. (-1) Incorrect Big O of storage4. (-1) Incorrect minimum possible height. ","HTML"
+"Monge","Alex","almonge","R11696059","2022-03-12 00:16:55","Yes","40140.202257","47.00","","HTML"," (-1) Incorrect input file name1. (-1) Incorrect worst case example.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes. ","HTML"
 "Nguyen","Henry","ngu89225","R11653433","2022-03-11 17:16:47","Yes","32074.202257","","","","",""
 "Nikumb","Yash","ynikumb","R11722897","2022-03-11 21:49:55","Yes","40140.202257","","","","",""
 "Nyowheoma","Timothy","tnyowheo","R11721207","2022-03-11 23:24:56","Yes","40140.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Ohenhen","Clement","cohenhen","R11639600","2022-03-11 18:38:34","Yes","32074.202257","44.00","","HTML","<p>Need a cleaning function to convert uppercase to lowercase (-1), hence the incorrect number of total words.&nbsp;</p> 
-<p>Words in output file are not in order. (-1)</p> 
-<p>Search result missing (-1)</p> 
-<p>1. (-1) Incorrect worst case.&nbsp;&nbsp;</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
+"Ohenhen","Clement","cohenhen","R11639600","2022-03-11 18:38:34","Yes","32074.202257","44.00","","HTML"," Need a cleaning function to convert uppercase to lowercase (-1), hence the incorrect number of total words.Words in output file are not in order. (-1)Search result missing (-1)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.4. (-1) Incorrect minimum possible height. ","HTML"
 "Ojeda","Matthew","matojeda","R11694743","2022-03-10 11:28:53","Yes","40140.202257","","","","",""
-"Openiyi","Fiyinfoluwa","fopeniyi","R11587434","2022-03-11 20:52:21","Yes","65911.202257","44.00","","HTML","<p>Need a cleaning function to convert uppercase to lowercase (-1), hence the incorrect number of total words.&nbsp;</p> 
-<p>Words in output file are not in order. (-1)</p> 
-<p>Search result missing (-1)</p> 
-<p>1. (-1) Incorrect worst case.&nbsp;&nbsp;</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
-"Ortega","Melody","meloorte","R11732914","2022-03-11 23:40:56","Yes","32074.202257","36.00","","HTML","<p>Missing build_concordance function definition.</p> 
-<p>Output file not found, test cases fail (-8)</p> 
-<p>Missing tree check (-3)</p> 
-<p>1. (-1) Incorrect worst case.</p> 
-<p>2. (-1) Incorrect Big O of the best case.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
+"Openiyi","Fiyinfoluwa","fopeniyi","R11587434","2022-03-11 20:52:21","Yes","65911.202257","44.00","","HTML"," Need a cleaning function to convert uppercase to lowercase (-1), hence the incorrect number of total words.Words in output file are not in order. (-1)Search result missing (-1)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.4. (-1) Incorrect minimum possible height. ","HTML"
+"Ortega","Melody","meloorte","R11732914","2022-03-11 23:40:56","Yes","32074.202257","36.00","","HTML"," Missing build_concordance function definition.Output file not found, test cases fail (-8)Missing tree check (-3)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case.4. (-1) Incorrect minimum possible height. ","HTML"
 "Ouedraogo","Baowend Manegre Frederic","baoouedr","R11724588","2022-03-12 11:02:15","Yes","32074.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
 "Palli","Vivekanand Reddy","vpalli","R11800805","2022-03-11 17:54:15","Yes","65911.202257","","","","",""
-"Patel","Akshar","pat29880","R11694765","2022-03-11 22:44:55","Yes","32074.202257","46.00","","HTML","<p>(-1) Missing total count in output file.&nbsp;</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.</p> 
-<p><br></p>","HTML"
-"Pickens","Drew","drpicken","R11628248","2022-03-11 21:57:18","Yes","40140.202257","41.00","","HTML","<p>Output file not found (-4)</p> 
-<p>Tree height, tree size and search result not working correctly for non-empty files (-2)</p> 
-<p>1. (-1) Incorrect worst case.&nbsp;&nbsp;</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
+"Patel","Akshar","pat29880","R11694765","2022-03-11 22:44:55","Yes","32074.202257","46.00","","HTML"," (-1) Missing total count in output file.1. (-2) Incorrect worst case example.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.<br> ","HTML"
+"Pickens","Drew","drpicken","R11628248","2022-03-11 21:57:18","Yes","40140.202257","41.00","","HTML"," Output file not found (-4)Tree height, tree size and search result not working correctly for non-empty files (-2)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.4. (-1) Incorrect minimum possible height. ","HTML"
 "Pinreddy","Suchith","spinredd","R11704958","2022-03-12 00:00:42","Yes","40140.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Pomroy","Cole","cpomroy","R11670458","2022-03-11 06:23:17","Yes","40140.202257","49.00","","HTML","<p>Good job on the code.</p> 
-<p>Analysis:</p> 
-<p>2. Best case: O(log3(n)) is the complexity for inserting 1 node. The question is asking the case of inserting n words. Take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p><br></p>","HTML"
+"Pomroy","Cole","cpomroy","R11670458","2022-03-11 06:23:17","Yes","40140.202257","49.00","","HTML"," Good job on the code.Analysis:2. Best case: O(log3(n)) is the complexity for inserting 1 node. The question is asking the case of inserting n words. Take into account that when you insert a new node, the number of nodes to traverse changes.<br> ","HTML"
 "Putta","Leela Satyaprasanna","lputta","R11800224","2022-03-11 23:30:42","Yes","65911.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Quintanilla Reyes","Valeria","valquint","R11720569","2022-03-12 19:22:42","Yes","32074.202257","0.00","","HTML","<p>All files are empty.</p> 
-<p><br></p>","HTML"
-"Quinteros","Aidan","aiquinte","R11700310","2022-03-11 22:17:47","Yes","40140.202257","38.00","","HTML","<p>Output file not found, test cases fail (-8)</p> 
-<p>Missing tree check (-3)</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p> 
-<p><br></p>","HTML"
-"Ragipindi","Sailaja","sragipin","R11797256","2022-03-11 21:35:21","Yes","65911.202257","42.00","","HTML","<p style=""font-weight: 400; font-style: normal; font-size: small; position: relative; overflow-wrap: break-word; color: #111111; background-color: #ffffff;"">Incorrect tree size and frequency (-2)</p> 
-<p style=""font-weight: 400; font-style: normal; font-size: small; position: relative; overflow-wrap: break-word; color: #111111; background-color: #ffffff;"">1. (-2) Incorrect worst case example.</p> 
-<p style=""font-weight: 400; font-style: normal; font-size: small; position: relative; overflow-wrap: break-word; color: #111111; background-color: #ffffff;"">2. (-2) Incorrect Big O of the best case</p> 
-<p style=""position: relative; overflow-wrap: break-word; background-color: #ffffff;""><span style=""color: #111111; font-size: small;"">4. (-2) Incorrect minimum possible height.</span></p>","HTML"
+"Quintanilla Reyes","Valeria","valquint","R11720569","2022-03-12 19:22:42","Yes","32074.202257","0.00","","HTML"," All files are empty.<br> ","HTML"
+"Quinteros","Aidan","aiquinte","R11700310","2022-03-11 22:17:47","Yes","40140.202257","38.00","","HTML"," Output file not found, test cases fail (-8)Missing tree check (-3)2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.4. (-1) Incorrect minimum possible height.<br> ","HTML"
+"Ragipindi","Sailaja","sragipin","R11797256","2022-03-11 21:35:21","Yes","65911.202257","42.00","","HTML"," Incorrect tree size and frequency (-2)1. (-2) Incorrect worst case example.2. (-2) Incorrect Big O of the best case4. (-2) Incorrect minimum possible height. ","HTML"
 "Rahedi","Ralph","rrahedi","R11687925","2022-03-10 16:40:14","Yes","32074.202257","","","","",""
-"Raman","Raj","rraman","R11670402","2022-03-09 13:51:15","Yes","32074.202257","46.00","","HTML","<p>(-1) Missing total count in output file.&nbsp;</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.</p>","HTML"
+"Raman","Raj","rraman","R11670402","2022-03-09 13:51:15","Yes","32074.202257","46.00","","HTML"," (-1) Missing total count in output file.1. (-2) Incorrect worst case example.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes. ","HTML"
 "Rasamalla","Anusha","arasamal","R11797235","2022-03-11 23:32:21","Yes","65911.202257","","","","",""
-"Reyes Avina","Salvador","sreyesav","R11696201","2022-03-11 13:53:56","Yes","40140.202257","42.00","","HTML","<p>Missing tree check (-3)</p> 
-<p>Missing total count and frequency accumulated in output file (-2)</p> 
-<p>1. (-1) Incorrect worst case.&nbsp;&nbsp;</p> 
-<p>2. (-1) Incorrect Big O of the best case.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
+"Reyes Avina","Salvador","sreyesav","R11696201","2022-03-11 13:53:56","Yes","40140.202257","42.00","","HTML"," Missing tree check (-3)Missing total count and frequency accumulated in output file (-2)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case.4. (-1) Incorrect minimum possible height. ","HTML"
 "Robles","Orlando","orrobles","R11706502","2022-03-11 23:54:35","Yes","32074.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Rodriguez","Silas","silrodri","R11679913","2022-03-12 21:18:15","Yes","32074.202257","48.00","","HTML","<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.</p> 
-<p>4. (-1) Incorrect minimum possible height. Look into the ceiling function to calculate height based on number of nodes.</p> 
-<p><br></p>","HTML"
-"Rodulfo Chacin","Roger","rrodulfo","R11697479","2022-03-12 15:34:55","Yes","40140.202257","38.00","","HTML","<p>Missing total count and frequency in output file. Test cases failed (-5)</p> 
-<p>Missing tree check (-2)</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-2) Incorrect Big O of the best case</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
-"Sananikone","Kimora","ksananik","R11726246","2022-03-11 21:06:54","Yes","32074.202257","40.00","","HTML","<p>Correct total count but word list is not complete, incorrect tree height, tree size and search result (-3)</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case</p> 
-<p>3. (-2) Incorrect Big O of storage</p> 
-<p>4. (-2) Incorrect minimum possible height.</p>","HTML"
+"Rodriguez","Silas","silrodri","R11679913","2022-03-12 21:18:15","Yes","32074.202257","48.00","","HTML"," 2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.4. (-1) Incorrect minimum possible height. Look into the ceiling function to calculate height based on number of nodes.<br> ","HTML"
+"Rodulfo Chacin","Roger","rrodulfo","R11697479","2022-03-12 15:34:55","Yes","40140.202257","38.00","","HTML"," Missing total count and frequency in output file. Test cases failed (-5)Missing tree check (-2)1. (-2) Incorrect worst case example.2. (-2) Incorrect Big O of the best case4. (-1) Incorrect minimum possible height. ","HTML"
+"Sananikone","Kimora","ksananik","R11726246","2022-03-11 21:06:54","Yes","32074.202257","40.00","","HTML"," Correct total count but word list is not complete, incorrect tree height, tree size and search result (-3)1. (-2) Incorrect worst case example.2. (-1) Incorrect Big O of the best case3. (-2) Incorrect Big O of storage4. (-2) Incorrect minimum possible height. ","HTML"
 "Schneider","Joshua","josschne","R11754033","2022-03-11 12:01:56","Yes","32074.202257","","","","",""
-"Sebastino","Andrew","andsebas","R11722488","2022-03-10 21:14:19","Yes","40140.202257","48.00","","HTML","<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes&nbsp;</p> 
-<p>4. (-1) Incorrect minimum possible height.</p> 
-<p><br></p>","HTML"
-"Shroff","Sai Arjun","sashroff","R11696179","2022-03-12 18:36:56","Yes","40140.202257","38.00","","HTML","<p>Incorrect output file and screen output, test cases not successfully (-7)</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case</p> 
-<p>4. (-2) Incorrect minimum possible height.</p>","HTML"
+"Sebastino","Andrew","andsebas","R11722488","2022-03-10 21:14:19","Yes","40140.202257","48.00","","HTML"," 2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes4. (-1) Incorrect minimum possible height.<br> ","HTML"
+"Shroff","Sai Arjun","sashroff","R11696179","2022-03-12 18:36:56","Yes","40140.202257","38.00","","HTML"," Incorrect output file and screen output, test cases not successfully (-7)1. (-2) Incorrect worst case example.2. (-1) Incorrect Big O of the best case4. (-2) Incorrect minimum possible height. ","HTML"
 "Silva","Adriana","sil74113","R11709775","2022-03-11 12:49:17","Yes","40140.202257","Needs Grading","","SMART_TEXT","","SMART_TEXT"
-"Singla","Gourav","gsingla","R11800214","2022-03-12 13:24:18","Yes","65911.202257","44.00","","HTML","<p>Incorrect tree size and frequency (-2)</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-2) Incorrect Big O of the best case</p>","HTML"
-"Somineni","Vyshnavi","vsominen","R11797600","2022-03-11 21:02:21","Yes","65911.202257","39.00","","HTML","<p>(-5) Late</p> 
-<p>Incorrect total word count, missing word frequency (-2)</p> 
-<p>Incorrect tree size (-1)</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case</p>","HTML"
-"Strowd","Zach","zstrowd","R11682551","2022-03-11 12:06:33","Yes","40140.202257","44.00","","SMART_TEXT","<p>Word frequency is incorrect for big file (-1)</p> 
-<p>Missing total word count, tree check is in correct (-2)</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>3. (-1) Incorrect Big O of storage</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
-"Supnekar","Vedant","vsupneka","R11715927","2022-03-12 03:11:56","Yes","32074.202257","41.00","","HTML","<p>Output file not found, test cases fail (-8)</p> 
-<p>2. (-1) Incorrect Big O of the best case.</p> 
-<p>3. O(n), but not because of n/2 or n/3</p> 
-<p><br></p>","HTML"
+"Singla","Gourav","gsingla","R11800214","2022-03-12 13:24:18","Yes","65911.202257","44.00","","HTML"," Incorrect tree size and frequency (-2)1. (-2) Incorrect worst case example.2. (-2) Incorrect Big O of the best case ","HTML"
+"Somineni","Vyshnavi","vsominen","R11797600","2022-03-11 21:02:21","Yes","65911.202257","39.00","","HTML"," (-5) LateIncorrect total word count, missing word frequency (-2)Incorrect tree size (-1)1. (-2) Incorrect worst case example.2. (-1) Incorrect Big O of the best case ","HTML"
+"Strowd","Zach","zstrowd","R11682551","2022-03-11 12:06:33","Yes","40140.202257","44.00","","SMART_TEXT"," Word frequency is incorrect for big file (-1)Missing total word count, tree check is in correct (-2)2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.3. (-1) Incorrect Big O of storage4. (-1) Incorrect minimum possible height. ","HTML"
+"Supnekar","Vedant","vsupneka","R11715927","2022-03-12 03:11:56","Yes","32074.202257","41.00","","HTML"," Output file not found, test cases fail (-8)2. (-1) Incorrect Big O of the best case.3. O(n), but not because of n/2 or n/3<br> ","HTML"
 "Tegel","Nicholas","ntegel","R11686085","2022-03-12 14:03:55","Yes","32074.202257","","","","",""
-"Thieme","Dirk","dthieme","R11636727","2022-03-10 10:05:31","Yes","32074.202257","38.00","","HTML","<p>Output file not found, missing tree check (-10)</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
+"Thieme","Dirk","dthieme","R11636727","2022-03-10 10:05:31","Yes","32074.202257","38.00","","HTML"," Output file not found, missing tree check (-10)2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.4. (-1) Incorrect minimum possible height. ","HTML"
 "Thompson","Derek","tho50598","R11647814","2022-03-10 15:14:14","Yes","32074.202257","","","","",""
-"Tran","Ethan","ettran","R11690098","2022-03-13 00:18:21","Yes","40140.202257","43.00","","HTML","<p>(-5) Late</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p> 
-<p><br></p>","HTML"
-"Tromblay","Michael","mtrombla","R11657865","2022-03-12 01:29:35","Yes","40140.202257","41.00","","HTML","<p>Output file not found (-4)</p> 
-<p>Tree height, tree size and search result not working correctly for non-empty files (-2)</p> 
-<p>1. (-1) Incorrect worst case.&nbsp;&nbsp;</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
-"Tumale","Jaden","jtumale","R11668450","2022-03-11 00:43:45","Yes","40140.202257","46.00","","HTML","<p>(-1) Use a cleaning function to convert uppercase to lowercase</p> 
-<p>1. (-2) Incorrect worst case example.</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.</p> 
-<p><br></p>","HTML"
-"Turaga","Venkata Sai","pturaga","R11374466","2022-03-11 22:43:47","Yes","65911.202257","36.00","","HTML","<p>Output file not found, test cases fail (-8)</p> 
-<p>Missing tree check (-3)</p> 
-<p>1. (-1) Incorrect worst case.</p> 
-<p>2. (-1) Incorrect Big O of the best case.</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
+"Tran","Ethan","ettran","R11690098","2022-03-13 00:18:21","Yes","40140.202257","43.00","","HTML"," (-5) Late2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.4. (-1) Incorrect minimum possible height.<br> ","HTML"
+"Tromblay","Michael","mtrombla","R11657865","2022-03-12 01:29:35","Yes","40140.202257","41.00","","HTML"," Output file not found (-4)Tree height, tree size and search result not working correctly for non-empty files (-2)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.4. (-1) Incorrect minimum possible height. ","HTML"
+"Tumale","Jaden","jtumale","R11668450","2022-03-11 00:43:45","Yes","40140.202257","46.00","","HTML"," (-1) Use a cleaning function to convert uppercase to lowercase1. (-2) Incorrect worst case example.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account the number of nodes because you'd do insertion for all n nodes.<br> ","HTML"
+"Turaga","Venkata Sai","pturaga","R11374466","2022-03-11 22:43:47","Yes","65911.202257","36.00","","HTML"," Output file not found, test cases fail (-8)Missing tree check (-3)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case.4. (-1) Incorrect minimum possible height. ","HTML"
 "Vaite","Asmi","avaite","R11716021","2022-03-04 22:04:29","Yes","40140.202257","","","","",""
-"Windle","Joshua","joswindl","R00367948","2022-03-12 00:25:15","Yes","32074.202257","48.00","","HTML","<p>(-1) The tree size (number of nodes) is different from the number of distinct words.</p> 
-<p>1. (-1) Incorrect worst case example.&nbsp;</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p>","HTML"
+"Windle","Joshua","joswindl","R00367948","2022-03-12 00:25:15","Yes","32074.202257","48.00","","HTML"," (-1) The tree size (number of nodes) is different from the number of distinct words.1. (-1) Incorrect worst case example.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes. ","HTML"
 "Yap","Luke","luyap","R11698974","2022-03-11 23:59:15","Yes","40140.202257","","","","",""
-"Zacarias","Evelyn","ezacaria","R11694488","2022-03-11 20:03:55","Yes","32074.202257","37.00","","HTML","<p>Output file always empty (-4)</p> 
-<p>Missing tree check (-3)</p> 
-<p>Tree structure not complete (-2)</p> 
-<p>1. (-1) Incorrect worst case.&nbsp;&nbsp;</p> 
-<p>2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.</p> 
-<p>3. (-1) Incorrect Big O of storage</p> 
-<p>4. (-1) Incorrect minimum possible height.</p>","HTML"
+"Zacarias","Evelyn","ezacaria","R11694488","2022-03-11 20:03:55","Yes","32074.202257","37.00","","HTML"," Output file always empty (-4)Missing tree check (-3)Tree structure not complete (-2)1. (-1) Incorrect worst case.2. (-1) Incorrect Big O of the best case, reconsider the base of log and take into account that when you insert a new node, the number of nodes to traverse changes.3. (-1) Incorrect Big O of storage4. (-1) Incorrect minimum possible height. ","HTML"
 "Zamarron","Nathalie","nzamarro","R11648624","2022-02-28 17:09:53","Yes","40140.202257","","","","",""
